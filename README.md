@@ -1,5 +1,6 @@
 # AR-demo
 First Repos
-<br>Author- Anmol
+<br>
+Author- Anmol (dtu student)
 
 
